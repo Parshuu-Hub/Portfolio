@@ -34,7 +34,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div className="w-1/3">
+        <div>
           <img
             src={HeroImage}
             alt="my profile"
