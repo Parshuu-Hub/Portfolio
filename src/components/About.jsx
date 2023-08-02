@@ -26,7 +26,7 @@ const About = () => {
           I used to play video games and I always wonder that how the system work.<br />
           Now, by learning, I came to know little bit that how the system work.<br />
           I love to learn and work with new technologies and frameworks.<br />
-          Through learning, I have realised that frontend development involves a lot of creativity and learnings.<br />
+          Through learning, I have realised that MERN stack development involves a lot of creativity and learnings.<br />
           It excites me a lot that's why I build this portfolio website. And I'm looking my future in it.    
         </p>
       </div>
